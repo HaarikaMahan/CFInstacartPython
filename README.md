@@ -1,7 +1,3 @@
-# Instacart
-
-![image](https://user-images.githubusercontent.com/107511180/174422643-2de6f9ed-7320-4e27-b93f-a2e569a17208.png)
-
 ![image](https://user-images.githubusercontent.com/107511180/174422674-3c2e044f-a44f-4de1-892f-043c6e13c58c.png)
 
 
