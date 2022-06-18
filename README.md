@@ -43,3 +43,4 @@ Throughout this project a number of open-source data sets from Instacart are use
 - Data has been cleaned.
 - New columns derived are relevant to the needs of the analysis.
 - Final report includes evidence of analysis methodology, clear answers to the questions in this brief and recommendations for   Instacart stakeholders.
+
